@@ -13,7 +13,7 @@ async def start(bot, update):
         InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/MrC_VENOM'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/nandhunair1/Adv-Auto-Filter-Bot')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/tvseriezzz')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
